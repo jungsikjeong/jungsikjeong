@@ -6,7 +6,7 @@
 
 **Full-stack engineer. Building things people love to use.**
 
-<sub><a href="https://lcnine.com">LCNINE</a> · <a href="https://almondyoung.com">아몬드영</a> &nbsp;|&nbsp; Kong Studio</sub>
+<sub><a href="https://www.lcnine.kr">LCNINE</a> · <a href="https://www.almondyoung.com">아몬드영</a> &nbsp;|&nbsp; Kong Studio</sub>
 
 <br/><br/>
 
