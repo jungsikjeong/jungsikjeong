@@ -2,7 +2,7 @@
 
 <br/>
 
-# Kong.
+# JungSik Jeong.
 
 **Full-stack engineer. Building things people love to use.**
 
